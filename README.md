@@ -1,5 +1,3 @@
-# tavastkliniken-ljudfiler
-
 # 🎵 Audio Player Management Guide
 
 ## 📖 Introduction
