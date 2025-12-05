@@ -621,8 +621,7 @@ add_shortcode('audio_player', 'display_audio_player_shortcode');
 ```
 audio-system/
 │
-├── audio-system-final-clean.php          # Main snippet / Huvudsnippet
-├── audio-system-screenshot-layout.php    # Version with screenshot layout / Version med screenshot-layout
+├── audio-system.php          # Main snippet / Huvudsnippet
 └── README.md                             # This file / Denna fil
 ```
 
